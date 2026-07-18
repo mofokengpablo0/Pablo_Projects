@@ -1,0 +1,2 @@
+Link to sticky_notes:
+https://github.com/hyperiondev-bootcamps/PM26020019904/tree/main/Level%202%20-%20Introduction%20to%20Software%20Engineering/M06T05%20%E2%80%93%20Django%20%E2%80%93%20Sticky%20Notes%20Application%20Part%202/sticky_notes
