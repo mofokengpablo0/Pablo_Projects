@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Sticky Notes - {{ page_title }}
+{% endblock %}
+
+{% block content %}
+<h2>{{ page_title }}</h2>
+
+<a href="{% url 'note_create' %}" class="btn btn-primary">+ Add Note</a>
+
+{% if notes %}
+<div class="notes-grid">
+  {% for note in notes %}
+  <div class="sticky-note" style="background-color: {{ note.color }};">
+    <h3>
+      <a href="{% url 'note_detail' pk=note.pk %}">{{ note.title }}</a>
+    </h3>
+    <p>{{ note.content|truncatewords:20 }}</p>
+    <small>Updated: {{ note.updated_at|date:"M d, Y H:i" }}</small>
+    <div class="note-actions">
+      <a href="{% url 'note_update' pk=note.pk %}">Edit</a>
+      <a href="{% url 'note_delete' pk=note.pk %}">Delete</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% else %}
+<p class="empty-state">No sticky notes yet. Create your first one!</p>
+{% endif %}
+{% endblock %}
