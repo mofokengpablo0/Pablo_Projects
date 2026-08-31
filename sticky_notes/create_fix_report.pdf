@@ -1,0 +1,38 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 0 >> stream
+BT /F1 12 Tf 50 760 Td (Sticky Notes Django Fix Report) Tj ET
+BT /F1 12 Tf 50 746 Td () Tj ET
+BT /F1 12 Tf 50 732 Td (Problem 1:) Tj ET
+BT /F1 12 Tf 50 718 Td (The Django app would not start because the shell was using the wrong Python interpreter.) Tj ET
+BT /F1 12 Tf 50 704 Td (Running python manage.py runserver returned ModuleNotFoundError: No module named django.) Tj ET
+BT /F1 12 Tf 50 690 Td () Tj ET
+BT /F1 12 Tf 50 676 Td (Problem 2:) Tj ET
+BT /F1 12 Tf 50 662 Td (After the server started, the homepage still failed because the root URL '/' was not mapped to the notes app.) Tj ET
+BT /F1 12 Tf 50 648 Td (Django returned a Page not found error at the homepage.) Tj ET
+BT /F1 12 Tf 50 634 Td () Tj ET
+BT /F1 12 Tf 50 620 Td (Problem 3:) Tj ET
+BT /F1 12 Tf 50 606 Td (The notes database tables were missing, so the notes page could not render properly.) Tj ET
+BT /F1 12 Tf 50 592 Td (The app raised an OperationalError for the notes_note table.) Tj ET
+BT /F1 12 Tf 50 578 Td () Tj ET
+BT /F1 12 Tf 50 564 Td (Fixes applied:) Tj ET
+BT /F1 12 Tf 50 550 Td (1. Started the project with the workspace virtual environment at .venv/Scripts/python.exe.) Tj ET
+BT /F1 12 Tf 50 536 Td (2. Added a PowerShell launcher script, start_server.ps1, to make future launches consistent.) Tj ET
+BT /F1 12 Tf 50 522 Td (3. Updated sticky_notes/urls.py to route the root path '' to the notes URLs.) Tj ET
+BT /F1 12 Tf 50 508 Td (4. Added ALLOWED_HOSTS entries for 127.0.0.1, localhost, and testserver.) Tj ET
+BT /F1 12 Tf 50 494 Td (5. Created and applied the missing migration for the Note model.) Tj ET
+BT /F1 12 Tf 50 480 Td (6. Added a regression test to confirm the homepage loads successfully.) Tj ET
+BT /F1 12 Tf 50 466 Td () Tj ET
+BT /F1 12 Tf 50 452 Td (Result:) Tj ET
+BT /F1 12 Tf 50 438 Td (The application now runs successfully at http://127.0.0.1:8000/ and the homepage responds correctly.) Tj ET
+endstream endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+0
+%%EOF

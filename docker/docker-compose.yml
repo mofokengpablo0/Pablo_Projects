@@ -1,0 +1,6 @@
+services:
+  garden-advisor:
+    build: .
+    stdin_open: true
+    tty: true
+    image: pablo07za/garden-advisor:latest
