@@ -1,7 +1,5 @@
 # Pablo_Projects
 
-Just do the work poi, imagine the payout.
-
 A collection of Python projects, scripts, and small web assets focused on practical utilities and learning-by-doing. This repository collects tools, experiments, and small apps that help automate tasks, explore ideas, and ship useful results quickly.
 
 ---
@@ -24,7 +22,7 @@ A collection of Python projects, scripts, and small web assets focused on practi
 ## About
 This repository is a workspace for projects, experiments, and utilities. It's intentionally pragmatic: build, iterate, learn, and ship. If you find something useful — fork it, adapt it, and improve it.
 
-Project motto: "Just do the work poi, imagine the payout."
+Project motto: "Just do the work."
 
 ## Tech stack & languages
 - Primary: Python (≈94.7%)
