@@ -92,7 +92,7 @@ Before you begin, make sure you have the following installed:
 
 **Option A: Clone with Git**
 ```bash
-git clone <your-repository-url>
-cd sticky_notes_project
+git clone <https://github.com/mofokengpablo0/Pablo_Projects>
+cd sticky_notes
 
 
