@@ -1,0 +1,24 @@
+Price,Rooms,Title,Area,Address,URL,Price_Numeric
+R 7 4901 Bedroom Apartment inZwartkop,1,1 Bedroom Apartment inZwartkop,Zwartkop,N/A,https://www.property24.com/to-rent/zwartkop/centurion/gauteng/533/117690075?plId=2652257&plt=2&plsIds=2657756,74901
+R 8 5002 Bedroom House inPretoria North,2,2 Bedroom House inPretoria North,Pretoria North,N/A,https://www.property24.com/to-rent/pretoria-north/pretoria/gauteng/4076/117639303?plId=2653229&plt=3&plsIds=2658662,85002
+R 8 3001 Bedroom Apartment inThe Hills Game Reserve Estate,1,1 Bedroom Apartment inThe Hills Game Reserve Estate,The Hills Game Reserve Estate,N/A,https://www.property24.com/to-rent/the-hills-game-reserve-estate/pretoria/gauteng/11712/116898609?plId=2651776&plt=3&plsIds=2657293,83001
+R 7 9501 Bedroom Apartment inBrooklyn,1,1 Bedroom Apartment inBrooklyn,Brooklyn,N/A,https://www.property24.com/to-rent/brooklyn/pretoria/gauteng/614/117331417?plId=2650628&plt=3&plsIds=2656160,79501
+R 146 300,N/A,Commercial Property,Brooklyn,300 Middel Street,https://www.property24.com/to-rent/brooklyn/pretoria/gauteng/614/117709895?plId=2650332&plt=4,146300
+R 16 700,N/A,Industrial Property,Silverton,490 Moepel Street,https://www.property24.com/to-rent/silverton/pretoria/gauteng/2958/117709767?plId=2650880&plt=4,16700
+R 45 000,N/A,Commercial Property,Brooklyn,"Unit 300 Brooklyn - Boshoff Street, 121 Boshoff Street",https://www.property24.com/to-rent/brooklyn/pretoria/gauteng/614/115754531?plId=2651198&plt=4,45000
+R 23 790,N/A,Commercial Property,Faerie Glen,"Unit A1004 Menlyn Woods, 291 Sprite Avenue",https://www.property24.com/to-rent/faerie-glen/pretoria/gauteng/165/117699159?plId=2651190&plt=4,23790
+R 43 560,N/A,Commercial Property,Scientia,1617 Allan Cormack Street,https://www.property24.com/to-rent/scientia/pretoria/gauteng/17334/115597872?plId=2650814&plt=4,43560
+R 90 000,N/A,Commercial Property,Menlyn,"Unit 1-375 Pegasus, 106 Mercy",https://www.property24.com/to-rent/menlyn/pretoria/gauteng/3957/116685515?plId=2647432&plt=4,90000
+R 43 560,N/A,Commercial Property,Persequor,1607 Allan Cormack Street,https://www.property24.com/to-rent/persequor/pretoria/gauteng/17380/114599867?plId=2650613&plt=4,43560
+R 463 008,N/A,Commercial Property,Menlyn,"Level 2 Indus, 01 Dallas Avenue",https://www.property24.com/to-rent/menlyn/pretoria/gauteng/3957/117675265?plId=2647433&plt=4,463008
+R 97 528,N/A,Commercial Property,Menlyn,142 Dallas Avenue,https://www.property24.com/to-rent/menlyn/pretoria/gauteng/3957/117668844?plId=2632685&plt=4,97528
+R 7 9501 Bedroom Apartment inBrooklyn,1,1 Bedroom Apartment inBrooklyn,Brooklyn,N/A,https://www.property24.com/to-rent/brooklyn/pretoria/gauteng/614/117569939?plId=2650628&plt=3&plsIds=2656160,79501
+R 29 400,N/A,Commercial Property,Erasmuskloof,495 Prieska Street 210m2 - Castle View South Block First Floor,https://www.property24.com/to-rent/erasmuskloof/pretoria/gauteng/2916/117666955?plId=2627502&plt=4,29400
+R 38 000,N/A,Commercial Property,Menlyn,125 Dallas Avenue,https://www.property24.com/to-rent/menlyn/pretoria/gauteng/3957/117661813?plId=2630618&plt=4,38000
+R 53 314,N/A,Commercial Property,Hatfield,"Unit 102 Hatfield, 1064 Arcadia Street",https://www.property24.com/to-rent/hatfield/pretoria/gauteng/304/117663858?plId=2651194&plt=4,53314
+R 257 900,N/A,Commercial Property,Menlyn,175 Corobay Avenue- 5e,https://www.property24.com/to-rent/menlyn/pretoria/gauteng/3957/117666607?plId=2630622&plt=4,257900
+R 51 895,N/A,Commercial Property,Faerie Glen,375 Oberon Avenue,https://www.property24.com/to-rent/faerie-glen/pretoria/gauteng/165/117663427?plId=2630625&plt=4,51895
+R 91 000,N/A,Commercial Property,Menlyn,118 Mercy Avenue,https://www.property24.com/to-rent/menlyn/pretoria/gauteng/3957/117625621?plId=2628830&plt=4,91000
+R 39 970,N/A,Commercial Property,Newlands,261 Lois Avenue,https://www.property24.com/to-rent/newlands/pretoria/gauteng/261/116508572?plId=2625272&plt=4,39970
+R 25 398,N/A,Industrial Property,Silvertondale,"11 Sildale Park, 150 Conveyor Road",https://www.property24.com/to-rent/silvertondale/pretoria/gauteng/2974/117625970?plId=2643473&plt=4,25398
+FromR 6 250ToR 10 500,N/A,Zambezi HeightsDevelopment in Montana,N/A,N/A,https://www.property24.com/new-developments-to-rent/montana/pretoria/gauteng/zambezi-heights/3984/5516,625010500
